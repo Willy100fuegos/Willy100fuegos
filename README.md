@@ -28,7 +28,7 @@
 
 ## 🚀 Sobre Mí (Briefing Ejecutivo)
 
-Resido en **Coatzacoalcos, Veracruz**, donde lidero la estrategia tecnológica para entornos de alta seguridad. Mi especialidad no es solo escribir código, sino diseñar **infraestructura resiliente** que soporte operaciones críticas 24/7 (C4, Centros de Monitoreo, Patrullaje).
+Resido en **Coatzacoalcos, Veracruz**, donde lidero la estrategia tecnológica para entornos de alta seguridad. Mi especialidad es el desarrollo de **infraestructura resiliente** que soporte operaciones críticas 24/7 (Centros de Monitoreo, Portales Corporativos, Sistemas de Rastreo satelital).
 
 * 🔭 **Actualmente trabajando en:** Orquestación SOAR para plataformas GPS y sistemas de denuncia ciudadana.
 * 🚔 **Enfoque:** GovTech, Telemetría Satelital, Ciberseguridad Defensiva y Automatización de Procesos.
