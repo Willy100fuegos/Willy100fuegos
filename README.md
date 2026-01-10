@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://pixmedia.b-cdn.net/pixmedialogoblanco.png" width="200" alt="Pixmedia Logo" />
+  <img src="http://imgfz.com/i/c32x7bk.png" width="200" alt="Pixmedia Logo" />
   <br/>
   <br/>
 
-  # ¡Hola! Soy William Velázquez 👋
+  # ¡Hola! Soy William Velázquez Valenzuela 👋
   
-  <a href="https://wily.mx">
-    <img src="https://img.shields.io/badge/Portafolio_Oficial-wily.mx-1e293b?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://willy.mx">
+    <img src="https://img.shields.io/badge/Portafolio_Oficial-willy.mx-1e293b?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="mailto:tu@email.com">
+  <a href="mailto:info@pixmedia.agency">
     <img src="https://img.shields.io/badge/Contactar-Director_TI-2563eb?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 
