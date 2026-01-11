@@ -64,25 +64,35 @@ Selección de desarrollos desplegados en entornos de producción real.
 
 ---
 
-## 📊 Métricas de Impacto
+## 🎨 Desarrollo Web & CMS (Agencia)
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willy100fuegos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy100fuegos&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-E62049?style=for-the-badge&logo=elementor&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
   <p><i>"La verdadera seguridad no es la ausencia de peligro, sino la presencia de preparación."</i></p>
+  
   <a href="https://willy.mx">
-    <img src="https://img.shields.io/badge/Website-wily.mx-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Perfil-willy.mx-1e293b?style=flat-square&logo=firefox" />
   </a>
+  <a href="https://pixmedia.agency">
+    <img src="https://img.shields.io/badge/Agencia-Pixmedia-7e22ce?style=flat-square&logo=monitor&logoColor=white" />
+  </a>
+  
+  <br/>
+  
   <a href="https://www.linkedin.com/in/willymx/">
     <img src="https://img.shields.io/badge/LinkedIn-William_Velázquez-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://wa.me/529211453200">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </div>
