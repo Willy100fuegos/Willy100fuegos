@@ -79,10 +79,10 @@ Selección de desarrollos desplegados en entornos de producción real.
 
 <div align="center">
   <p><i>"La verdadera seguridad no es la ausencia de peligro, sino la presencia de preparación."</i></p>
-  <a href="https://wily.mx">
+  <a href="https://willy.mx">
     <img src="https://img.shields.io/badge/Website-wily.mx-blue?style=flat-square" />
   </a>
-  <a href="https://linkedin.com/in/williamvelazquez">
+  <a href="https://www.linkedin.com/in/willymx/">
     <img src="https://img.shields.io/badge/LinkedIn-William_Velázquez-0077B5?style=flat-square&logo=linkedin" />
   </a>
 </div>
